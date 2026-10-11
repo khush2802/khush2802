@@ -1,0 +1,51 @@
+name: Refresh contribution dashboard
+
+on:
+  schedule:
+    - cron: "41 0 * * *" # daily at 00:41 UTC (06:11 IST); off the hour to avoid queue spikes
+  workflow_dispatch: # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/dashboard.yml"
+
+# The only write this workflow needs is committing the regenerated images.
+permissions:
+  contents: write
+
+concurrency:
+  group: dashboard
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Test the generator
+        run: python3 -m unittest discover -s scripts
+
+      # Uses the built-in token, which sees exactly what a logged-out visitor sees.
+      # DASHBOARD_TOKEN is optional; see docs/MAINTENANCE.md before adding one.
+      - name: Render from the GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.DASHBOARD_TOKEN || github.token }}
+        run: python3 scripts/render_dashboard.py --out assets/generated
+
+      # If any step above failed, this never runs and the last good images stay published.
+      - name: Commit changed images
+        run: |
+          git add assets/generated
+          if git diff --cached --quiet; then
+            echo "Images unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh contribution dashboard"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
