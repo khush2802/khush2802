@@ -1,21 +1,21 @@
 {
  "login": "khush2802",
- "source": "GitHub contribution calendar",
- "source_detail": "Initial snapshot read from https://github.com/users/khush2802/contributions (public contribution calendar as shown to logged-out visitors) on 2026-10-11; public repository count from the profile's Repositories tab. Scheduled runs replace this with the GitHub GraphQL API.",
- "fetched_at": "2026-10-11T12:42:06Z",
+ "source": "GitHub GraphQL API",
+ "source_detail": "https://api.github.com/graphql: user.contributionsCollection(from: 2025-10-12T00:00:00Z, to: 2026-10-11T23:59:59Z).contributionCalendar and user.repositories(privacy: PUBLIC, ownerAffiliations: OWNER).totalCount",
+ "fetched_at": "2026-10-11T13:42:52+00:00",
  "window": {
   "start": "2025-10-12",
   "end": "2026-10-11",
   "days": 365
  },
  "totals": {
-  "contributions": 159,
-  "active_days": 57,
+  "contributions": 164,
+  "active_days": 58,
   "longest_streak_days": 5,
-  "public_repositories": 35
+  "public_repositories": 37
  },
  "weekday_totals": {
-  "Sunday": 23,
+  "Sunday": 28,
   "Monday": 10,
   "Tuesday": 33,
   "Wednesday": 38,
@@ -191,7 +191,7 @@
   [
    "2025-11-13",
    2,
-   1
+   2
   ],
   [
    "2025-11-14",
@@ -231,7 +231,7 @@
   [
    "2025-11-21",
    6,
-   3
+   4
   ],
   [
    "2025-11-22",
@@ -531,12 +531,12 @@
   [
    "2026-01-20",
    2,
-   1
+   2
   ],
   [
    "2026-01-21",
    2,
-   1
+   2
   ],
   [
    "2026-01-22",
@@ -561,7 +561,7 @@
   [
    "2026-01-26",
    2,
-   1
+   2
   ],
   [
    "2026-01-27",
@@ -626,7 +626,7 @@
   [
    "2026-02-08",
    2,
-   1
+   2
   ],
   [
    "2026-02-09",
@@ -1046,7 +1046,7 @@
   [
    "2026-05-03",
    2,
-   1
+   2
   ],
   [
    "2026-05-04",
@@ -1071,7 +1071,7 @@
   [
    "2026-05-08",
    2,
-   1
+   2
   ],
   [
    "2026-05-09",
@@ -1431,7 +1431,7 @@
   [
    "2026-07-19",
    2,
-   1
+   2
   ],
   [
    "2026-07-20",
@@ -1481,7 +1481,7 @@
   [
    "2026-07-29",
    2,
-   1
+   2
   ],
   [
    "2026-07-30",
@@ -1586,7 +1586,7 @@
   [
    "2026-08-19",
    2,
-   1
+   2
   ],
   [
    "2026-08-20",
@@ -1641,7 +1641,7 @@
   [
    "2026-08-30",
    4,
-   2
+   3
   ],
   [
    "2026-08-31",
@@ -1661,7 +1661,7 @@
   [
    "2026-09-03",
    2,
-   1
+   2
   ],
   [
    "2026-09-04",
@@ -1671,7 +1671,7 @@
   [
    "2026-09-05",
    2,
-   1
+   2
   ],
   [
    "2026-09-06",
@@ -1696,7 +1696,7 @@
   [
    "2026-09-10",
    4,
-   2
+   3
   ],
   [
    "2026-09-11",
@@ -1850,8 +1850,8 @@
   ],
   [
    "2026-10-11",
-   0,
-   0
+   5,
+   3
   ]
  ]
 }
