@@ -83,7 +83,7 @@ That's the loop I aim for. Not every repository here shows every step yet, which
 | Status | Work |
 | --- | --- |
 | Finished | Hostel Adda · GTA VI recreation |
-| In progress | UNIVERSE (repository analyser next) · hireAI and perplexity backends (authentication only so far) · DSA in C++ · Go fundamentals |
+| In progress | UNIVERSE (repository analyser next) · hireAI and perplexity backends (authentication only so far) · Python and local LLMs · DSA in C++ · Go fundamentals |
 | Specified, not started | AlgoTrace · Foreman |
 
 ## Stack
@@ -98,7 +98,7 @@ Only what appears in my public code. The last column says where.
 | Data and services | MongoDB with Mongoose (including GeoJSON), Cloudinary, ImageKit, Mapbox | [Hostel-Adda](https://github.com/khush2802/Hostel-Adda), [BE_PERFECTLY](https://github.com/khush2802/BE_PERFECTLY) |
 | Deployment | Vercel, GitHub Pages, Render | [UNIVERSE](https://github.com/khush2802/UNIVERSE), [GTA-5](https://github.com/khush2802/GTA-5), [Hostel-Adda](https://github.com/khush2802/Hostel-Adda) |
 
-**Learning, no public code yet:** Python, machine learning and computer vision, cloud infrastructure.
+**Learning:** Python with local LLMs — a first script that calls Qwen3 through Ollama's OpenAI-compatible API, in [MIK_genAI_py](https://github.com/khush2802/MIK_genAI_py). No public code yet for machine learning, computer vision or cloud infrastructure.
 
 ## Learning log
 

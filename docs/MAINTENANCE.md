@@ -36,11 +36,11 @@ The workflow runs:
 - on any push to `main` that changes `scripts/` or the workflow,
 - whenever you press **Run workflow** under **Actions → Refresh contribution dashboard**.
 
-Each run tests the generator, fetches the data, renders the images and commits them only if something changed. It needs **no secrets**: it uses the built-in `GITHUB_TOKEN`, which sees what a logged-out visitor sees, and the workflow grants it only `contents: write` so it can push the images.
+Each run tests the generator, fetches the data, renders the images and commits the result. `contributions.json` records when the data was fetched, so every successful run makes a commit; that daily commit is also what keeps GitHub from pausing the schedule. It needs **no secrets**: it uses the built-in `GITHUB_TOKEN`, which sees what a logged-out visitor sees, and the workflow grants it only `contents: write` so it can push the images.
 
 If a run fails (GitHub API outage, failing test, network error), nothing is committed and the profile keeps showing the last good images. The "updated" date on the dashboard tells you how fresh they are, and GitHub emails you about the failed run.
 
-GitHub pauses scheduled workflows in public repositories after 60 days without activity. The daily image commits normally count as activity; if the schedule ever stops, re-enable it from the Actions tab.
+GitHub pauses scheduled workflows in public repositories after 60 days without activity. The daily commits count as activity; if the schedule ever stops anyway, re-enable it from the Actions tab.
 
 ### Optional: `DASHBOARD_TOKEN`
 
