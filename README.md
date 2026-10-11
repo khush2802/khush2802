@@ -26,10 +26,10 @@ I'm a Computer Science graduate from IIIT Pune (2026). I build full-stack web ap
 
 ## Exploring
 
-- **Backend architecture** — layered Express APIs with validation and token auth ([hireAI](https://github.com/khush2802/hireAI), [perplexity](https://github.com/khush2802/perplexity))
-- **Applied AI** — first steps with local LLMs from Python, through Ollama ([MIK_genAI_py](https://github.com/khush2802/MIK_genAI_py))
-- **Algorithms** — data structures and problem-solving in C++ ([DSA](https://github.com/khush2802/DSA), [LeetCode](https://leetcode.com/u/khush2802/))
-- **Interactive 3D** — three.js scenes in React, with reduced-motion and no-WebGL fallbacks
+- **Backend** — Express APIs with validation and auth ([hireAI](https://github.com/khush2802/hireAI), [perplexity](https://github.com/khush2802/perplexity))
+- **Applied AI** — starting with local LLMs in Python ([MIK_genAI_py](https://github.com/khush2802/MIK_genAI_py))
+- **Algorithms** — problem-solving in C++ ([DSA](https://github.com/khush2802/DSA), [LeetCode](https://leetcode.com/u/khush2802/))
+- **Interactive 3D** — three.js scenes in React
 
 ## Selected Projects
 
@@ -73,7 +73,7 @@ An interactive 3D portfolio where each repository is a planet orbiting its domai
   <img alt="Main language of 28 public repositories: JavaScript 14, CSS 4, HTML 4, TypeScript 3, C++ 1, Go 1, Python 1" src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/languages-light.svg" width="440">
 </picture>
 
-<sub>Repository language distribution: each of my 28 public repositories with code, counted once under the main language GitHub detects in it (forks and this profile repository excluded). It describes the repositories, not proficiency. Snapshot from 11 Oct 2026.</sub>
+<sub>Repository language distribution: main language of my 28 public repos with code, excluding forks and this repo. Snapshot, 11 Oct 2026.</sub>
 
 ## Contact
 
