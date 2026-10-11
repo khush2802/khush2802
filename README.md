@@ -42,29 +42,29 @@ An interactive 3D portfolio where each repository is a planet orbiting its domai
 ## Tech Stack
 
 **Languages**&nbsp;
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/javascript.svg" width="14" height="14" alt="JavaScript logo" align="absmiddle"> JavaScript</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/typescript.svg" width="14" height="14" alt="TypeScript logo" align="absmiddle"> TypeScript</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/cplusplus.svg" width="14" height="14" alt="C++ logo" align="absmiddle"> C++</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/go.svg" width="26" height="14" alt="Go logo" align="absmiddle"> Go</kbd>
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/javascript.svg" width="119" height="26" alt="JavaScript" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/typescript.svg" width="119" height="26" alt="TypeScript" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/cplusplus.svg" width="64" height="26" alt="C++" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/go.svg" width="70" height="26" alt="Go" align="absmiddle">
 
 **Frontend**&nbsp;
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/react.svg" width="14" height="14" alt="React logo" align="absmiddle"> React</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/nextdotjs.svg" width="14" height="14" alt="Next.js logo" align="absmiddle"> Next.js</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/tailwindcss.svg" width="14" height="14" alt="Tailwind CSS logo" align="absmiddle"> Tailwind CSS</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/gsap.svg" width="26" height="14" alt="GSAP logo" align="absmiddle"> GSAP</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/threedotjs.svg" width="14" height="14" alt="Three.js logo" align="absmiddle"> Three.js</kbd>
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/react.svg" width="80" height="26" alt="React" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/nextdotjs.svg" width="96" height="26" alt="Next.js" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/tailwindcss.svg" width="135" height="26" alt="Tailwind CSS" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/gsap.svg" width="85" height="26" alt="GSAP" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/threedotjs.svg" width="103" height="26" alt="Three.js" align="absmiddle">
 
 **Backend and data**&nbsp;
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/nodedotjs.svg" width="14" height="14" alt="Node.js logo" align="absmiddle"> Node.js</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/express.svg" width="14" height="14" alt="Express logo" align="absmiddle"> Express</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/mongodb.svg" width="14" height="14" alt="MongoDB logo" align="absmiddle"> MongoDB</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/jsonwebtokens.svg" width="14" height="14" alt="JWT logo" align="absmiddle"> JWT</kbd>
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/nodedotjs.svg" width="96" height="26" alt="Node.js" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/express.svg" width="96" height="26" alt="Express" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/mongodb.svg" width="96" height="26" alt="MongoDB" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/jsonwebtokens.svg" width="64" height="26" alt="JWT" align="absmiddle">
 
 **Tools**&nbsp;
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/git.svg" width="14" height="14" alt="Git logo" align="absmiddle"> Git</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/github.svg" width="14" height="14" alt="GitHub logo" align="absmiddle"> GitHub</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/vite.svg" width="14" height="14" alt="Vite logo" align="absmiddle"> Vite</kbd>
-<kbd><img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/icons/vercel.svg" width="14" height="14" alt="Vercel logo" align="absmiddle"> Vercel</kbd>
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/git.svg" width="64" height="26" alt="Git" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/github.svg" width="88" height="26" alt="GitHub" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/vite.svg" width="72" height="26" alt="Vite" align="absmiddle">
+<img src="https://raw.githubusercontent.com/khush2802/khush2802/main/assets/stack/vercel.svg" width="88" height="26" alt="Vercel" align="absmiddle">
 
 ## Language Breakdown
 

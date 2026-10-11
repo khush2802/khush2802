@@ -15,7 +15,7 @@ This repository is the GitHub profile README for [khush2802](https://github.com/
 | `assets/generated/*-compact-{dark,light}.svg` | The same two images laid out for screens 600 px wide or less | Generator |
 | `assets/generated/contributions.json` | The exact numbers behind the dashboard | Generator |
 | `assets/languages-{dark,light}.svg` | "Main language by repository" card, a dated snapshot | Hand (one-off) |
-| `assets/icons/*.svg` | Technology logos from Simple Icons 16.32.0, recoloured to `#26a641` | Hand (one-off) |
+| `assets/stack/*.svg` | Tech Stack chips: a Simple Icons 16.32.0 logo plus the name, with light and dark colours chosen by `prefers-color-scheme` | Hand (one-off) |
 
 Don't edit files in `assets/generated/` by hand; the next run overwrites them. Nothing outside `assets/generated/` is touched by the workflow.
 
