@@ -14,8 +14,10 @@ This repository is the GitHub profile README for [khush2802](https://github.com/
 | `assets/generated/dashboard-{dark,light}.svg` | Contribution landscape and stats | Generator |
 | `assets/generated/*-compact-{dark,light}.svg` | The same two images laid out for screens 600 px wide or less | Generator |
 | `assets/generated/contributions.json` | The exact numbers behind the dashboard | Generator |
+| `assets/languages-{dark,light}.svg` | "Main language by repository" card, a dated snapshot | Hand (one-off) |
+| `assets/icons/*.svg` | Technology logos from Simple Icons 16.32.0, recoloured to `#26a641` | Hand (one-off) |
 
-Don't edit files in `assets/generated/` by hand; the next run overwrites them.
+Don't edit files in `assets/generated/` by hand; the next run overwrites them. Nothing outside `assets/generated/` is touched by the workflow.
 
 ## What the dashboard shows
 
@@ -65,10 +67,13 @@ python3 scripts/render_dashboard.py --from-json assets/generated/contributions.j
 
 ## Updating the README
 
-- Re-check the **Current focus** table whenever it changes; it carries a month on purpose.
-- When a project's status changes (finished, deployed, abandoned), update its label and links.
+- The language card doesn't update itself; its date is printed on it. To refresh it, take the main language GitHub shows for each repository on the **Repositories** tab, skip forks, repositories without code and this one, count each repository once, then update both SVGs, the image's `alt` text and the caption under it.
+- When a project's status changes (finished, deployed, abandoned), update its sentence and links.
 - Before featuring a repository, make sure it has a README, setup steps and a working demo link (or say there isn't one).
+- List a technology under **Tech Stack** only when a public repository uses it.
 
 ## Credits
 
 The isometric-calendar idea comes from [colincode0/github-readme](https://github.com/colincode0/github-readme). That repository has no license file, so none of its code is used here; `render_dashboard.py` is an independent implementation with its own projection, data window, metrics and tests.
+
+Technology logos come from [Simple Icons](https://simpleicons.org) (CC0 1.0), recoloured; each logo remains a trademark of its owner. The [Git logo](https://git-scm.com/community/logos) by Jason Long is licensed under CC BY 3.0, and the JavaScript logo comes from [voodootikigod/logo.js](https://github.com/voodootikigod/logo.js) (MIT).
