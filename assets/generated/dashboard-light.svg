@@ -1,17 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="507" viewBox="0 0 1000 507" role="img" aria-labelledby="t d">
-<title id="t">khush2802: 170 GitHub contributions, 21 Oct 2025 – 20 Oct 2026</title>
-<desc id="d">Isometric contribution calendar. 58 active days out of 365. Busiest day 2026-03-11 (15); most active weekday Wednesday. Public repositories: 39. Source: GitHub GraphQL API.</desc>
+<title id="t">khush2802: 174 GitHub contributions, 22 Oct 2025 – 21 Oct 2026</title>
+<desc id="d">Isometric contribution calendar. 59 active days out of 365. Busiest day 2026-03-11 (15); most active weekday Wednesday. Public repositories: 41. Source: GitHub GraphQL API.</desc>
 <rect x="0.5" y="0.5" width="999" height="506" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 <text x="36.0" y="52.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#59636e" letter-spacing="2.4">CONTRIBUTION LANDSCAPE</text>
-<text x="36.0" y="79.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#8c959f">21 Oct 2025 – 20 Oct 2026 · last 365 days</text>
-<text x="964.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1f2328" font-weight="650" text-anchor="end">39</text>
+<text x="36.0" y="79.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#8c959f">22 Oct 2025 – 21 Oct 2026 · last 365 days</text>
+<text x="964.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1f2328" font-weight="650" text-anchor="end">41</text>
 <text x="964.0" y="86.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e" text-anchor="end" letter-spacing="1.5">PUBLIC REPOS</text>
-<text x="806.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1f2328" font-weight="650" text-anchor="end">58</text>
+<text x="806.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1f2328" font-weight="650" text-anchor="end">59</text>
 <text x="806.0" y="86.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e" text-anchor="end" letter-spacing="1.5">ACTIVE DAYS</text>
-<text x="648.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1a7f37" font-weight="650" text-anchor="end">170</text>
+<text x="648.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1a7f37" font-weight="650" text-anchor="end">174</text>
 <text x="648.0" y="86.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e" text-anchor="end" letter-spacing="1.5">CONTRIBUTIONS</text>
 <polygon points="142.3,137.5 154.9,140.7 154.9,138.7 142.3,135.5" fill="#b7b9bb"/><polygon points="162.9,130.4 154.9,140.7 154.9,138.7 162.9,128.4" fill="#8d8e90"/><polygon points="150.3,125.3 162.9,128.4 154.9,138.7 142.3,135.5" fill="#ebedf0"/>
-<polygon points="108.2,158.2 120.8,161.4 120.8,159.4 108.2,156.2" fill="#b7b9bb"/><polygon points="128.8,151.1 120.8,161.4 120.8,159.4 128.8,149.1" fill="#8d8e90"/><polygon points="116.2,146.0 128.8,149.1 120.8,159.4 108.2,156.2" fill="#ebedf0"/>
 <polygon points="132.8,149.7 145.4,152.9 145.4,150.9 132.8,147.7" fill="#b7b9bb"/><polygon points="153.4,142.6 145.4,152.9 145.4,150.9 153.4,140.6" fill="#8d8e90"/><polygon points="140.8,137.5 153.4,140.6 145.4,150.9 132.8,147.7" fill="#ebedf0"/>
 <polygon points="157.4,141.3 170.0,144.4 170.0,142.4 157.4,139.3" fill="#b7b9bb"/><polygon points="178.0,134.2 170.0,144.4 170.0,142.4 178.0,132.2" fill="#8d8e90"/><polygon points="165.4,129.0 178.0,132.2 170.0,142.4 157.4,139.3" fill="#ebedf0"/>
 <polygon points="98.7,170.4 111.3,173.6 111.3,171.6 98.7,168.4" fill="#b7b9bb"/><polygon points="119.3,163.3 111.3,173.6 111.3,171.6 119.3,161.3" fill="#8d8e90"/><polygon points="106.7,158.2 119.3,161.3 111.3,171.6 98.7,168.4" fill="#ebedf0"/>
@@ -368,10 +367,11 @@
 <polygon points="816.5,378.6 829.1,381.7 829.1,379.7 816.5,376.6" fill="#b7b9bb"/><polygon points="837.1,371.5 829.1,381.7 829.1,379.7 837.1,369.5" fill="#8d8e90"/><polygon points="824.5,366.3 837.1,369.5 829.1,379.7 816.5,376.6" fill="#ebedf0"/>
 <polygon points="841.1,370.1 853.7,373.3 853.7,371.3 841.1,368.1" fill="#b7b9bb"/><polygon points="861.7,363.0 853.7,373.3 853.7,371.3 861.7,361.0" fill="#8d8e90"/><polygon points="849.1,357.9 861.7,361.0 853.7,371.3 841.1,368.1" fill="#ebedf0"/>
 <polygon points="865.7,361.7 878.3,364.8 878.3,347.6 865.7,344.4" fill="#79b683"/><polygon points="886.3,354.6 878.3,364.8 878.3,347.6 886.3,337.3" fill="#5d8c65"/><polygon points="873.7,334.2 886.3,337.3 878.3,347.6 865.7,344.4" fill="#9be9a8"/>
-<polygon points="890.3,353.2 902.9,356.3 902.9,354.3 890.3,351.2" fill="#b7b9bb"/><polygon points="910.9,346.1 902.9,356.3 902.9,354.3 910.9,344.1" fill="#8d8e90"/><polygon points="898.3,341.0 910.9,344.1 902.9,354.3 890.3,351.2" fill="#ebedf0"/>
+<polygon points="890.3,353.2 902.9,356.3 902.9,329.9 890.3,326.8" fill="#32994d"/><polygon points="910.9,346.1 902.9,356.3 902.9,329.9 910.9,319.7" fill="#26763b"/><polygon points="898.3,316.5 910.9,319.7 902.9,329.9 890.3,326.8" fill="#40c463"/>
 <polygon points="807.0,390.8 819.6,394.0 819.6,392.0 807.0,388.8" fill="#b7b9bb"/><polygon points="827.6,383.7 819.6,394.0 819.6,392.0 827.6,381.7" fill="#8d8e90"/><polygon points="815.0,378.6 827.6,381.7 819.6,392.0 807.0,388.8" fill="#ebedf0"/>
 <polygon points="831.6,382.3 844.2,385.5 844.2,383.5 831.6,380.3" fill="#b7b9bb"/><polygon points="852.2,375.2 844.2,385.5 844.2,383.5 852.2,373.2" fill="#8d8e90"/><polygon points="839.6,370.1 852.2,373.2 844.2,383.5 831.6,380.3" fill="#ebedf0"/>
 <polygon points="856.1,373.9 868.8,377.0 868.8,350.6 856.1,347.4" fill="#32994d"/><polygon points="876.8,366.8 868.8,377.0 868.8,350.6 876.8,340.3" fill="#26763b"/><polygon points="864.1,337.2 876.8,340.3 868.8,350.6 856.1,347.4" fill="#40c463"/>
+<polygon points="880.7,365.4 893.3,368.6 893.3,366.6 880.7,363.4" fill="#b7b9bb"/><polygon points="901.3,358.3 893.3,368.6 893.3,366.6 901.3,356.3" fill="#8d8e90"/><polygon points="888.7,353.2 901.3,356.3 893.3,366.6 880.7,363.4" fill="#ebedf0"/>
 <polygon points="822.0,394.6 834.6,397.7 834.6,395.7 822.0,392.6" fill="#b7b9bb"/><polygon points="842.6,387.5 834.6,397.7 834.6,395.7 842.6,385.5" fill="#8d8e90"/><polygon points="830.0,382.3 842.6,385.5 834.6,395.7 822.0,392.6" fill="#ebedf0"/>
 <polygon points="846.6,386.1 859.2,389.2 859.2,387.2 846.6,384.1" fill="#b7b9bb"/><polygon points="867.2,379.0 859.2,389.2 859.2,387.2 867.2,377.0" fill="#8d8e90"/><polygon points="854.6,373.8 867.2,377.0 859.2,387.2 846.6,384.1" fill="#ebedf0"/>
 <polygon points="837.1,398.3 849.7,401.5 849.7,399.5 837.1,396.3" fill="#b7b9bb"/><polygon points="857.7,391.2 849.7,401.5 849.7,399.5 857.7,389.2" fill="#8d8e90"/><polygon points="845.1,386.1 857.7,389.2 849.7,399.5 837.1,396.3" fill="#ebedf0"/>
@@ -392,7 +392,7 @@
 <text x="46.0" y="485.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">S</text>
 <rect x="61.0" y="454.5" width="16" height="12.5" rx="2" fill="#40c463"/>
 <text x="69.0" y="485.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">M</text>
-<rect x="84.0" y="425.8" width="16" height="41.2" rx="2" fill="#40c463"/>
+<rect x="84.0" y="420.8" width="16" height="46.2" rx="2" fill="#40c463"/>
 <text x="92.0" y="485.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">T</text>
 <rect x="107.0" y="417.0" width="16" height="50.0" rx="2" fill="#1a7f37"/>
 <text x="115.0" y="485.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">W</text>
@@ -404,7 +404,7 @@
 <text x="184.0" y="485.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">S</text>
 <text x="209.0" y="447.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f">most active</text>
 <text x="209.0" y="467.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328" font-weight="600">Wednesday</text>
-<text x="964.0" y="485.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="end">updated 2026-10-20 · GitHub GraphQL API</text>
+<text x="964.0" y="485.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="end">updated 2026-10-21 · GitHub GraphQL API</text>
 <text x="838.0" y="459.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="end">less</text>
 <rect x="846.0" y="449.0" width="12" height="12" rx="2" fill="#ebedf0"/>
 <rect x="862.0" y="449.0" width="12" height="12" rx="2" fill="#9be9a8"/>
