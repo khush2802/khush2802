@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="483" viewBox="0 0 600 483" role="img" aria-labelledby="t d">
-<title id="t">khush2802: 172 GitHub contributions, 14 Nov 2025 – 13 Nov 2026</title>
-<desc id="d">Isometric contribution calendar. 58 active days out of 365.</desc>
-<rect x="0.5" y="0.5" width="599" height="482" rx="14" fill="#0b0f14" stroke="#1f2630"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="485" viewBox="0 0 600 485" role="img" aria-labelledby="t d">
+<title id="t">khush2802: 167 GitHub contributions, 15 Nov 2025 – 14 Nov 2026</title>
+<desc id="d">Isometric contribution calendar. 57 active days out of 365.</desc>
+<rect x="0.5" y="0.5" width="599" height="484" rx="14" fill="#0b0f14" stroke="#1f2630"/>
 <text x="26.0" y="48.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" letter-spacing="2.4">CONTRIBUTION LANDSCAPE</text>
-<text x="26.0" y="78.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#5b6470">14 Nov 2025 – 13 Nov 2026</text>
-<text x="26.0" y="146.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="52" fill="#3fd364" font-weight="650">172</text>
+<text x="26.0" y="78.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#5b6470">15 Nov 2025 – 14 Nov 2026</text>
+<text x="26.0" y="146.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="52" fill="#3fd364" font-weight="650">167</text>
 <text x="26.0" y="176.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#8b949e" letter-spacing="1.2">CONTRIBUTIONS</text>
-<text x="208.7" y="146.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="52" fill="#e6edf3" font-weight="650">58</text>
+<text x="208.7" y="146.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="52" fill="#e6edf3" font-weight="650">57</text>
 <text x="208.7" y="176.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#8b949e" letter-spacing="1.2">ACTIVE DAYS</text>
 <text x="391.3" y="146.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="52" fill="#e6edf3" font-weight="650">41</text>
 <text x="391.3" y="176.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#8b949e" letter-spacing="1.2">PUBLIC REPOS</text>
@@ -20,7 +20,6 @@
 <polygon points="70.6,240.5 78.6,242.5 78.6,241.2 70.6,239.2" fill="#11151b"/><polygon points="83.6,236.0 78.6,242.5 78.6,241.2 83.6,234.7" fill="#0d1014"/><polygon points="75.6,232.7 83.6,234.7 78.6,241.2 70.6,239.2" fill="#161b22"/>
 <polygon points="86.1,235.1 94.1,237.1 94.1,235.8 86.1,233.8" fill="#11151b"/><polygon points="99.2,230.6 94.1,237.1 94.1,235.8 99.2,229.3" fill="#0d1014"/><polygon points="91.2,227.3 99.2,229.3 94.1,235.8 86.1,233.8" fill="#161b22"/>
 <polygon points="101.7,229.7 109.7,231.7 109.7,226.6 101.7,224.6" fill="#0b3520"/><polygon points="114.8,225.2 109.7,231.7 109.7,226.6 114.8,220.1" fill="#082919"/><polygon points="106.8,218.1 114.8,220.1 109.7,226.6 101.7,224.6" fill="#0e4429"/>
-<polygon points="33.3,258.9 41.3,260.9 41.3,242.3 33.3,240.3" fill="#005527"/><polygon points="46.4,254.4 41.3,260.9 41.3,242.3 46.4,235.8" fill="#00411e"/><polygon points="38.4,233.8 46.4,235.8 41.3,242.3 33.3,240.3" fill="#006d32"/>
 <polygon points="48.9,253.6 56.9,255.6 56.9,236.9 48.9,234.9" fill="#005527"/><polygon points="62.0,249.1 56.9,255.6 56.9,236.9 62.0,230.4" fill="#00411e"/><polygon points="54.0,228.4 62.0,230.4 56.9,236.9 48.9,234.9" fill="#006d32"/>
 <polygon points="64.5,248.2 72.5,250.2 72.5,245.1 64.5,243.1" fill="#0b3520"/><polygon points="77.6,243.7 72.5,250.2 72.5,245.1 77.6,238.6" fill="#082919"/><polygon points="69.6,236.6 77.6,238.6 72.5,245.1 64.5,243.1" fill="#0e4429"/>
 <polygon points="80.1,242.8 88.1,244.8 88.1,243.6 80.1,241.6" fill="#11151b"/><polygon points="93.2,238.3 88.1,244.8 88.1,243.6 93.2,237.1" fill="#0d1014"/><polygon points="85.2,235.1 93.2,237.1 88.1,243.6 80.1,241.6" fill="#161b22"/>
@@ -375,6 +374,7 @@
 <polygon points="535.5,374.9 543.5,376.9 543.5,375.6 535.5,373.6" fill="#11151b"/><polygon points="548.5,370.4 543.5,376.9 543.5,375.6 548.5,369.1" fill="#0d1014"/><polygon points="540.5,367.1 548.5,369.1 543.5,375.6 535.5,373.6" fill="#161b22"/>
 <polygon points="513.8,388.0 521.8,390.0 521.8,388.7 513.8,386.7" fill="#11151b"/><polygon points="526.9,383.5 521.8,390.0 521.8,388.7 526.9,382.2" fill="#0d1014"/><polygon points="518.9,380.2 526.9,382.2 521.8,388.7 513.8,386.7" fill="#161b22"/>
 <polygon points="529.4,382.6 537.4,384.6 537.4,383.4 529.4,381.4" fill="#11151b"/><polygon points="542.5,378.1 537.4,384.6 537.4,383.4 542.5,376.9" fill="#0d1014"/><polygon points="534.5,374.9 542.5,376.9 537.4,383.4 529.4,381.4" fill="#161b22"/>
-<text x="26.0" y="437.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8b949e">most active: Wednesday</text>
-<text x="26.0" y="463.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#5b6470">updated 2026-11-13 · GitHub GraphQL API</text>
+<polygon points="523.3,390.4 531.3,392.4 531.3,391.1 523.3,389.1" fill="#11151b"/><polygon points="536.4,385.9 531.3,392.4 531.3,391.1 536.4,384.6" fill="#0d1014"/><polygon points="528.4,382.6 536.4,384.6 531.3,391.1 523.3,389.1" fill="#161b22"/>
+<text x="26.0" y="439.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8b949e">most active: Wednesday</text>
+<text x="26.0" y="465.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#5b6470">updated 2026-11-14 · GitHub GraphQL API</text>
 </svg>
