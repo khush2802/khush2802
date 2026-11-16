@@ -1,38 +1,33 @@
 {
  "login": "khush2802",
  "source": "GitHub GraphQL API",
- "source_detail": "https://api.github.com/graphql: user.contributionsCollection(from: 2025-11-16T00:00:00Z, to: 2026-11-15T23:59:59Z).contributionCalendar and user.repositories(privacy: PUBLIC, ownerAffiliations: OWNER).totalCount",
- "fetched_at": "2026-11-15T07:11:19+00:00",
+ "source_detail": "https://api.github.com/graphql: user.contributionsCollection(from: 2025-11-17T00:00:00Z, to: 2026-11-16T23:59:59Z).contributionCalendar and user.repositories(privacy: PUBLIC, ownerAffiliations: OWNER).totalCount",
+ "fetched_at": "2026-11-16T07:15:56+00:00",
  "window": {
-  "start": "2025-11-16",
-  "end": "2026-11-15",
+  "start": "2025-11-17",
+  "end": "2026-11-16",
   "days": 365
  },
  "totals": {
-  "contributions": 167,
-  "active_days": 57,
+  "contributions": 157,
+  "active_days": 53,
   "longest_streak_days": 5,
-  "public_repositories": 41
+  "public_repositories": 40
  },
  "weekday_totals": {
-  "Sunday": 28,
-  "Monday": 10,
-  "Tuesday": 37,
-  "Wednesday": 40,
-  "Thursday": 18,
-  "Friday": 20,
-  "Saturday": 14
+  "Sunday": 27,
+  "Monday": 13,
+  "Tuesday": 32,
+  "Wednesday": 37,
+  "Thursday": 16,
+  "Friday": 19,
+  "Saturday": 13
  },
  "busiest_day": {
   "date": "2026-03-11",
   "count": 15
  },
  "days": [
-  [
-   "2025-11-16",
-   0,
-   0
-  ],
   [
    "2025-11-17",
    0,
@@ -1255,13 +1250,13 @@
   ],
   [
    "2026-07-19",
-   2,
-   1
+   0,
+   0
   ],
   [
    "2026-07-20",
-   1,
-   1
+   0,
+   0
   ],
   [
    "2026-07-21",
@@ -1305,8 +1300,8 @@
   ],
   [
    "2026-07-29",
-   2,
-   1
+   0,
+   0
   ],
   [
    "2026-07-30",
@@ -1440,8 +1435,8 @@
   ],
   [
    "2026-08-25",
-   5,
-   2
+   0,
+   0
   ],
   [
    "2026-08-26",
@@ -1525,13 +1520,13 @@
   ],
   [
    "2026-09-11",
-   1,
-   1
+   0,
+   0
   ],
   [
    "2026-09-12",
-   1,
-   1
+   0,
+   0
   ],
   [
    "2026-09-13",
@@ -1690,13 +1685,13 @@
   ],
   [
    "2026-10-14",
-   2,
+   1,
    1
   ],
   [
    "2026-10-15",
-   4,
-   2
+   2,
+   1
   ],
   [
    "2026-10-16",
@@ -1850,8 +1845,13 @@
   ],
   [
    "2026-11-15",
-   0,
-   0
+   1,
+   1
+  ],
+  [
+   "2026-11-16",
+   4,
+   2
   ]
  ]
 }
