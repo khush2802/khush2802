@@ -1,19 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="509" viewBox="0 0 1000 509" role="img" aria-labelledby="t d">
-<title id="t">khush2802: 153 GitHub contributions, 26 Nov 2025 – 25 Nov 2026</title>
-<desc id="d">Isometric contribution calendar. 54 active days out of 365. Busiest day 2026-03-11 (15); most active weekday Wednesday. Public repositories: 40. Source: GitHub GraphQL API.</desc>
+<title id="t">khush2802: 152 GitHub contributions, 27 Nov 2025 – 26 Nov 2026</title>
+<desc id="d">Isometric contribution calendar. 53 active days out of 365. Busiest day 2026-03-11 (15); most active weekday Wednesday. Public repositories: 40. Source: GitHub GraphQL API.</desc>
 <rect x="0.5" y="0.5" width="999" height="508" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 <text x="36.0" y="52.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#59636e" letter-spacing="2.4">CONTRIBUTION LANDSCAPE</text>
-<text x="36.0" y="79.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#8c959f">26 Nov 2025 – 25 Nov 2026 · last 365 days</text>
+<text x="36.0" y="79.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#8c959f">27 Nov 2025 – 26 Nov 2026 · last 365 days</text>
 <text x="964.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1f2328" font-weight="650" text-anchor="end">40</text>
 <text x="964.0" y="86.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e" text-anchor="end" letter-spacing="1.5">PUBLIC REPOS</text>
-<text x="806.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1f2328" font-weight="650" text-anchor="end">54</text>
+<text x="806.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1f2328" font-weight="650" text-anchor="end">53</text>
 <text x="806.0" y="86.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e" text-anchor="end" letter-spacing="1.5">ACTIVE DAYS</text>
-<text x="648.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1a7f37" font-weight="650" text-anchor="end">153</text>
+<text x="648.0" y="62.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="36" fill="#1a7f37" font-weight="650" text-anchor="end">152</text>
 <text x="648.0" y="86.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e" text-anchor="end" letter-spacing="1.5">CONTRIBUTIONS</text>
 <polygon points="142.3,139.8 154.9,142.9 154.9,140.9 142.3,137.8" fill="#b7b9bb"/><polygon points="162.9,132.7 154.9,142.9 154.9,140.9 162.9,130.7" fill="#8d8e90"/><polygon points="150.3,127.5 162.9,130.7 154.9,140.9 142.3,137.8" fill="#ebedf0"/>
 <polygon points="132.8,152.0 145.4,155.1 145.4,153.1 132.8,150.0" fill="#b7b9bb"/><polygon points="153.4,144.9 145.4,155.1 145.4,153.1 153.4,142.9" fill="#8d8e90"/><polygon points="140.8,139.8 153.4,142.9 145.4,153.1 132.8,150.0" fill="#ebedf0"/>
 <polygon points="157.4,143.5 170.0,146.7 170.0,138.7 157.4,135.5" fill="#79b683"/><polygon points="178.0,136.4 170.0,146.7 170.0,138.7 178.0,128.4" fill="#5d8c65"/><polygon points="165.4,125.3 178.0,128.4 170.0,138.7 157.4,135.5" fill="#9be9a8"/>
-<polygon points="98.7,172.7 111.3,175.8 111.3,167.8 98.7,164.7" fill="#79b683"/><polygon points="119.3,165.6 111.3,175.8 111.3,167.8 119.3,157.6" fill="#5d8c65"/><polygon points="106.7,154.4 119.3,157.6 111.3,167.8 98.7,164.7" fill="#9be9a8"/>
 <polygon points="123.2,164.2 135.9,167.4 135.9,165.4 123.2,162.2" fill="#b7b9bb"/><polygon points="143.9,157.1 135.9,167.4 135.9,165.4 143.9,155.1" fill="#8d8e90"/><polygon points="131.2,152.0 143.9,155.1 135.9,165.4 123.2,162.2" fill="#ebedf0"/>
 <polygon points="147.8,155.7 160.4,158.9 160.4,156.9 147.8,153.7" fill="#b7b9bb"/><polygon points="168.4,148.6 160.4,158.9 160.4,156.9 168.4,146.6" fill="#8d8e90"/><polygon points="155.8,143.5 168.4,146.6 160.4,156.9 147.8,153.7" fill="#ebedf0"/>
 <polygon points="172.4,147.3 185.0,150.4 185.0,148.4 172.4,145.3" fill="#b7b9bb"/><polygon points="193.0,140.2 185.0,150.4 185.0,148.4 193.0,138.2" fill="#8d8e90"/><polygon points="180.4,135.0 193.0,138.2 185.0,148.4 172.4,145.3" fill="#ebedf0"/>
@@ -374,6 +373,7 @@
 <polygon points="880.7,367.7 893.3,370.8 893.3,368.8 880.7,365.7" fill="#b7b9bb"/><polygon points="901.3,360.6 893.3,370.8 893.3,368.8 901.3,358.6" fill="#8d8e90"/><polygon points="888.7,355.4 901.3,358.6 893.3,368.8 880.7,365.7" fill="#ebedf0"/>
 <polygon points="822.0,396.8 834.6,400.0 834.6,398.0 822.0,394.8" fill="#b7b9bb"/><polygon points="842.6,389.7 834.6,400.0 834.6,398.0 842.6,387.7" fill="#8d8e90"/><polygon points="830.0,384.6 842.6,387.7 834.6,398.0 822.0,394.8" fill="#ebedf0"/>
 <polygon points="846.6,388.3 859.2,391.5 859.2,389.5 846.6,386.3" fill="#b7b9bb"/><polygon points="867.2,381.2 859.2,391.5 859.2,389.5 867.2,379.2" fill="#8d8e90"/><polygon points="854.6,376.1 867.2,379.2 859.2,389.5 846.6,386.3" fill="#ebedf0"/>
+<polygon points="871.2,379.9 883.8,383.0 883.8,381.0 871.2,377.9" fill="#b7b9bb"/><polygon points="891.8,372.8 883.8,383.0 883.8,381.0 891.8,370.8" fill="#8d8e90"/><polygon points="879.2,367.6 891.8,370.8 883.8,381.0 871.2,377.9" fill="#ebedf0"/>
 <polygon points="837.1,400.6 849.7,403.7 849.7,401.7 837.1,398.6" fill="#b7b9bb"/><polygon points="857.7,393.5 849.7,403.7 849.7,401.7 857.7,391.5" fill="#8d8e90"/><polygon points="845.1,388.3 857.7,391.5 849.7,401.7 837.1,398.6" fill="#ebedf0"/>
 <text x="80.1" y="229.1" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">Dec</text>
 <text x="140.3" y="244.1" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">Jan</text>
@@ -388,23 +388,23 @@
 <text x="726.8" y="390.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">Oct</text>
 <text x="802.0" y="409.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">Nov</text>
 <text x="38.0" y="399.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e" letter-spacing="1.5">BY WEEKDAY</text>
-<rect x="38.0" y="432.2" width="16" height="36.8" rx="2" fill="#40c463"/>
+<rect x="38.0" y="431.2" width="16" height="37.8" rx="2" fill="#40c463"/>
 <text x="46.0" y="487.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">S</text>
-<rect x="61.0" y="447.9" width="16" height="21.1" rx="2" fill="#40c463"/>
+<rect x="61.0" y="447.4" width="16" height="21.6" rx="2" fill="#40c463"/>
 <text x="69.0" y="487.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">M</text>
-<rect x="84.0" y="424.3" width="16" height="44.7" rx="2" fill="#40c463"/>
+<rect x="84.0" y="423.1" width="16" height="45.9" rx="2" fill="#40c463"/>
 <text x="92.0" y="487.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">T</text>
 <rect x="107.0" y="419.0" width="16" height="50.0" rx="2" fill="#1a7f37"/>
 <text x="115.0" y="487.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">W</text>
-<rect x="130.0" y="454.5" width="16" height="14.5" rx="2" fill="#40c463"/>
+<rect x="130.0" y="454.1" width="16" height="14.9" rx="2" fill="#40c463"/>
 <text x="138.0" y="487.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">T</text>
-<rect x="153.0" y="451.9" width="16" height="17.1" rx="2" fill="#40c463"/>
+<rect x="153.0" y="451.4" width="16" height="17.6" rx="2" fill="#40c463"/>
 <text x="161.0" y="487.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">F</text>
-<rect x="176.0" y="451.9" width="16" height="17.1" rx="2" fill="#40c463"/>
+<rect x="176.0" y="451.4" width="16" height="17.6" rx="2" fill="#40c463"/>
 <text x="184.0" y="487.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="middle">S</text>
 <text x="209.0" y="449.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f">most active</text>
 <text x="209.0" y="469.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328" font-weight="600">Wednesday</text>
-<text x="964.0" y="487.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="end">updated 2026-11-25 · GitHub GraphQL API</text>
+<text x="964.0" y="487.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="end">updated 2026-11-26 · GitHub GraphQL API</text>
 <text x="838.0" y="461.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8c959f" text-anchor="end">less</text>
 <rect x="846.0" y="451.0" width="12" height="12" rx="2" fill="#ebedf0"/>
 <rect x="862.0" y="451.0" width="12" height="12" rx="2" fill="#9be9a8"/>

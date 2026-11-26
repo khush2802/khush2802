@@ -1,16 +1,16 @@
 {
  "login": "khush2802",
  "source": "GitHub GraphQL API",
- "source_detail": "https://api.github.com/graphql: user.contributionsCollection(from: 2025-11-26T00:00:00Z, to: 2026-11-25T23:59:59Z).contributionCalendar and user.repositories(privacy: PUBLIC, ownerAffiliations: OWNER).totalCount",
- "fetched_at": "2026-11-25T09:08:19+00:00",
+ "source_detail": "https://api.github.com/graphql: user.contributionsCollection(from: 2025-11-27T00:00:00Z, to: 2026-11-26T23:59:59Z).contributionCalendar and user.repositories(privacy: PUBLIC, ownerAffiliations: OWNER).totalCount",
+ "fetched_at": "2026-11-26T08:53:33+00:00",
  "window": {
-  "start": "2025-11-26",
-  "end": "2026-11-25",
+  "start": "2025-11-27",
+  "end": "2026-11-26",
   "days": 365
  },
  "totals": {
-  "contributions": 153,
-  "active_days": 54,
+  "contributions": 152,
+  "active_days": 53,
   "longest_streak_days": 5,
   "public_repositories": 40
  },
@@ -18,7 +18,7 @@
   "Sunday": 28,
   "Monday": 16,
   "Tuesday": 34,
-  "Wednesday": 38,
+  "Wednesday": 37,
   "Thursday": 11,
   "Friday": 13,
   "Saturday": 13
@@ -28,11 +28,6 @@
   "count": 15
  },
  "days": [
-  [
-   "2025-11-26",
-   1,
-   1
-  ],
   [
    "2025-11-27",
    0,
@@ -1850,6 +1845,11 @@
   ],
   [
    "2026-11-25",
+   0,
+   0
+  ],
+  [
+   "2026-11-26",
    0,
    0
   ]
